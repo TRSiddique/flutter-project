@@ -24,7 +24,7 @@ ShopSpot is a full-featured eCommerce mobile app built with Flutter. It allows u
 
 | Cart Page | Wishlist Page | Payment Page | Order History |
 |-----------|---------------|---------------|----------------|
-| ![Cart](lib/assets/s4.png) | ![Wishlist](lib/assets/s5.png) | ![Payment](lib/assets/s6.png) | ![Orders](lib/assets/s7.png) |
+| ![Cart](lib/assets/s5.png) | ![Wishlist](lib/assets/s6.png) | ![Payment](lib/assets/s4.png) | ![Orders](lib/assets/s7.png) |
 
 > 💡 Place your screenshots in a folder named `screenshots/` inside your project directory.
 
